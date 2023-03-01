@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Book Library</string>
+    <string name="delete">Delete</string>
+    <string name="add_new_book">Add new book</string>
+    <string name="todo">TODO</string>
+</resources>
